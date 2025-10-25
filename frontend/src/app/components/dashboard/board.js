@@ -7,11 +7,11 @@ function Board() {
                 <div className="rounded-full p-4 bg-(--bg-dark) border border-(--border-color)">
                     <BookOpen/>
                 </div>
-                <p className="font-bold text-xl">Начните отслеживать навыки</p>
-                <p className="text-(--text-muted)">Добавьте свой первый навык и следите за прогрессом</p>
+                <p className="font-bold text-xl">Start Tracking Skills</p>
+                <p className="text-(--text-muted)">Add your first skill and track your progress</p>
                 <button className="bg-(image:--gradient-primary) bg-(--bg-primary) px-4 py-2 rounded-xl
                 hover:bg-(image:--bg-primary-hover)">
-                    + Add fist skill
+                    + Add Fist Skill
                 </button>
             </div>
         </div>
